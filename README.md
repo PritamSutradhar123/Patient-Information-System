@@ -1,5 +1,5 @@
 # Patient-Information-System
-Creating GUI for Patient Information System using Python 
+Creating a GUI for Patient Information System using Python 
 ## Library used
 1.[tkinter](https://docs.python.org/3/library/tkinter.html)
 <br>
